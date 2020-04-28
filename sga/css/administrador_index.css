@@ -1,0 +1,176 @@
+/*@media only screen and (min-width : 992px) {
+main, footer {
+     padding-left: 300px;
+   }
+ }
+
+   @media only screen and (max-width : 992px) {
+     header, main, footer {
+       padding-left: 0;
+     }
+   }*/
+body {
+  float: none;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+li a{
+  font-size: 1rem;
+}
+
+.navbar-fixed {
+  background-color: orange;
+  max-height: 50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.left{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  width: 30%;
+}
+
+.center{
+  width: 68%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-height: 50px;
+}
+
+.center span{
+  font-weight: bold;
+  font-family: serif;
+  font-size: 2rem;
+  max-height: 100%;
+}
+
+#option {
+  border-radius: 20px 20px 20px 20px;
+  width: 80%;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+#option:hover, #option2:hover{
+  background: #1C5076;
+  color: white;
+}
+
+.background{
+  max-height: 50px;
+  background-color: orange;
+}
+
+.main{
+max-width: 100%;
+}
+
+.tittle{
+  max-width: 80%;
+  margin-bottom: 1%;
+  border-radius: 15px 15px 15px 15px;
+  margin-top: 2%;
+}
+
+.content{
+  max-width: 90%;
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content span{
+    margin-right: 1%;
+}
+.content img{
+  max-width: 100px;
+  max-width: 50px;
+}
+
+.estadisticas{
+  margin-top: 3%;
+  max-width: 100%;
+  max-height: 400px;
+  margin-bottom: 2%;
+}
+
+.card{
+  width: 25%;
+  display: inline-block;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.card-content span{
+  font-size: 1rem;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+.activator{
+  max-width: 80%;
+  max-height: 80%;
+  margin-top: 1%;
+}
+
+.opciones{
+  max-width: 100%;
+  margin-top: 1%;
+}
+
+.botones{
+  display: inline-block;
+  width: 25%;
+  height: 50px;
+  border-radius: 15px 15px 15px 15px;
+  margin-left: 3%;
+}
+
+.botones a span{
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+#submit{
+  width: 60%;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.contenido{
+  margin-top: 2%;
+}
+
+.mensaje .error{
+  background-color: #ff2424;
+  color: white;
+  font-weight: bold;
+  border-radius: 15px 15px 15px 15px;
+  font-size: 1.5rem;
+}
+
+.mensaje .exito{
+  background-color: #3bac39;
+  color: white;
+  font-weight: bold;
+  border-radius: 15px 15px 15px 15px;
+  font-size: 1.5rem;
+}

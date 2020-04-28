@@ -1,0 +1,1093 @@
+[06-Oct-2019 04:45:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Consultas::count_personas() in /home/apostols/public_html/sga/view/admin/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/index.php on line 11
+[06-Oct-2019 04:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Consultas::count_personas() in /home/apostols/public_html/sga/view/admin/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/index.php on line 11
+[09-Oct-2019 21:40:09 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[09-Oct-2019 21:40:09 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 112
+[09-Oct-2019 21:41:21 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[09-Oct-2019 21:41:21 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 112
+[10-Oct-2019 17:40:18 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[10-Oct-2019 17:40:18 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 112
+[12-Oct-2019 20:02:58 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[12-Oct-2019 20:02:58 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 112
+[29-Oct-2019 00:05:46 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[29-Oct-2019 00:05:46 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 112
+[31-Oct-2019 19:33:08 UTC] PHP Notice:  Undefined index: foto in /home/apostols/public_html/sga/view/admin/registro_docentes.php on line 18
+[31-Oct-2019 19:33:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Docentes' not found in /home/apostols/public_html/sga/view/admin/registro_docentes.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/registro_docentes.php on line 26
+[31-Oct-2019 19:37:37 UTC] PHP Notice:  Undefined index: foto in /home/apostols/public_html/sga/view/admin/registro_docentes.php on line 18
+[31-Oct-2019 19:37:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Docentes' not found in /home/apostols/public_html/sga/view/admin/registro_docentes.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/registro_docentes.php on line 26
+[31-Oct-2019 19:39:03 UTC] PHP Notice:  Undefined index: foto in /home/apostols/public_html/sga/view/admin/registro_docentes.php on line 18
+[31-Oct-2019 19:39:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Docentes' not found in /home/apostols/public_html/sga/view/admin/registro_docentes.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/registro_docentes.php on line 26
+[01-Nov-2019 00:15:17 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 19:15:17 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 19:15:17 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 19:15:17 America/Guayaquil] PHP Warning:  require_once(/home/apostols/public_html/sga/tcpdf/config/tcpdf_config.php): failed to open stream: No such file or directory in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 144
+[31-Oct-2019 19:15:17 America/Guayaquil] PHP Fatal error:  require_once(): Failed opening required '/home/apostols/public_html/sga/tcpdf/config/tcpdf_config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 144
+[01-Nov-2019 00:15:28 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 19:15:28 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 19:15:28 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 19:15:28 America/Guayaquil] PHP Warning:  require_once(/home/apostols/public_html/sga/tcpdf/config/tcpdf_config.php): failed to open stream: No such file or directory in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 144
+[31-Oct-2019 19:15:28 America/Guayaquil] PHP Fatal error:  require_once(): Failed opening required '/home/apostols/public_html/sga/tcpdf/config/tcpdf_config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 144
+[01-Nov-2019 00:15:36 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 19:15:36 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 19:15:36 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 19:15:36 America/Guayaquil] PHP Warning:  require_once(/home/apostols/public_html/sga/tcpdf/config/tcpdf_config.php): failed to open stream: No such file or directory in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 144
+[31-Oct-2019 19:15:36 America/Guayaquil] PHP Fatal error:  require_once(): Failed opening required '/home/apostols/public_html/sga/tcpdf/config/tcpdf_config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 144
+[01-Nov-2019 00:17:41 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[01-Nov-2019 00:17:41 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 112
+[01-Nov-2019 00:17:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Consultas::get_Cursos() in /home/apostols/public_html/sga/view/admin/lista_cursos_reportes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/lista_cursos_reportes.php on line 6
+[01-Nov-2019 00:25:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Consultas::get_Cursos() in /home/apostols/public_html/sga/view/admin/lista_cursos_reportes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/lista_cursos_reportes.php on line 6
+[01-Nov-2019 00:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Consultas::get_Cursos() in /home/apostols/public_html/sga/view/admin/lista_cursos_reportes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/lista_cursos_reportes.php on line 6
+[01-Nov-2019 00:30:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Consultas::get_Cursos() in /home/apostols/public_html/sga/view/admin/lista_cursos_reportes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/lista_cursos_reportes.php on line 6
+[01-Nov-2019 00:32:48 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 19:32:48 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 19:32:48 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 19:32:48 America/Guayaquil] PHP Warning:  require_once(/home/apostols/public_html/sga/tcpdf/config/tcpdf_config.php): failed to open stream: No such file or directory in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 144
+[31-Oct-2019 19:32:48 America/Guayaquil] PHP Fatal error:  require_once(): Failed opening required '/home/apostols/public_html/sga/tcpdf/config/tcpdf_config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 144
+[01-Nov-2019 00:39:11 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 19:39:11 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 19:39:11 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 19:39:11 America/Guayaquil] PHP Warning:  require_once(/home/apostols/public_html/sga/tcpdf/config/tcpdf_config.php): failed to open stream: No such file or directory in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 144
+[31-Oct-2019 19:39:11 America/Guayaquil] PHP Fatal error:  require_once(): Failed opening required '/home/apostols/public_html/sga/tcpdf/config/tcpdf_config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 144
+[01-Nov-2019 00:44:51 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 19:44:51 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 19:44:51 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 19:44:51 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 19:44:51 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 19:44:51 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 19:44:51 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 19:44:51 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 19:44:51 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 19:44:51 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 19:44:51 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 00:44:58 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 19:44:58 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 19:44:58 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 19:44:58 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 19:44:58 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 19:44:58 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 19:44:58 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 19:44:58 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 19:44:58 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 19:44:58 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 19:44:58 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 00:45:16 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 19:45:16 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 19:45:16 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 19:45:16 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 19:45:16 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 19:45:16 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 19:45:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 19:45:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 19:45:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 19:45:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 19:45:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 00:46:37 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 19:46:37 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 19:46:37 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 19:46:37 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 19:46:37 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 19:46:37 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 19:46:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 19:46:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 19:46:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 19:46:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 19:46:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 00:46:43 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 19:46:43 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 19:46:43 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 19:46:43 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 19:46:43 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 19:46:43 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 19:46:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 19:46:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 19:46:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 19:46:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 19:46:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:05:44 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:05:44 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:05:44 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:05:44 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:05:44 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:05:44 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:05:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:05:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:05:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:05:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:05:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:06:39 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:06:39 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:06:39 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:06:39 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:06:39 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:06:39 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:06:39 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:06:39 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:06:39 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:06:39 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:06:39 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:06:57 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:06:57 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:06:57 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:06:57 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:06:57 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:06:57 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:06:57 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:06:57 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:06:57 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:06:57 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:06:57 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:07:16 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:07:16 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:07:16 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:07:16 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:07:16 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:07:16 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:07:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:07:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:07:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:07:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:07:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:07:20 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:07:20 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:07:20 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:07:20 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:07:20 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:07:20 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:07:20 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:07:20 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:07:20 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:07:20 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:07:20 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:09:46 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:09:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:14:14 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:14:14 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:14:14 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[01-Nov-2019 01:14:36 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:14:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:15:54 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:15:54 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:18:44 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:18:44 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:20:12 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:20:12 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:21:34 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:21:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:21:43 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:21:43 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:21:45 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:21:45 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:22:01 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:22:01 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:22:03 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:22:03 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:23:25 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:23:25 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:23:41 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:23:41 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:26:46 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 20:26:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 03:53:44 UTC] PHP Notice:  Undefined index: foto in /home/apostols/public_html/sga/view/admin/registro_docentes.php on line 18
+[01-Nov-2019 03:53:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Docentes' not found in /home/apostols/public_html/sga/view/admin/registro_docentes.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/registro_docentes.php on line 26
+[01-Nov-2019 03:56:04 UTC] PHP Notice:  Undefined index: foto in /home/apostols/public_html/sga/view/admin/registro_docentes.php on line 18
+[01-Nov-2019 03:56:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Docentes' not found in /home/apostols/public_html/sga/view/admin/registro_docentes.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/registro_docentes.php on line 26
+[01-Nov-2019 03:57:33 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 22:57:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 03:57:37 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[31-Oct-2019 22:57:37 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 06:22:16 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[01-Nov-2019 01:22:16 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 09:17:22 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[01-Nov-2019 04:17:22 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 09:17:26 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[01-Nov-2019 04:17:26 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[01-Nov-2019 19:30:15 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[01-Nov-2019 19:30:15 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 112
+[01-Nov-2019 20:08:51 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[01-Nov-2019 20:08:51 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 112
+[01-Nov-2019 20:11:32 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[01-Nov-2019 20:11:32 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 112
+[01-Nov-2019 20:50:50 UTC] PHP Notice:  Undefined index: paralelo in /home/apostols/public_html/sga/view/admin/registro_alumnos.php on line 17
+[04-Nov-2019 15:33:06 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[04-Nov-2019 10:33:06 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[04-Nov-2019 10:33:07 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[04-Nov-2019 21:29:23 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[04-Nov-2019 21:29:23 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[04-Nov-2019 21:29:23 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[04-Nov-2019 21:29:23 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[04-Nov-2019 21:29:23 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 120
+[05-Nov-2019 00:44:36 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[05-Nov-2019 00:44:36 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[05-Nov-2019 00:44:36 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[05-Nov-2019 00:44:36 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[05-Nov-2019 00:44:36 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 120
+[05-Nov-2019 00:44:39 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[05-Nov-2019 00:44:39 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[05-Nov-2019 00:44:39 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[05-Nov-2019 00:44:39 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[05-Nov-2019 00:44:39 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 120
+[06-Nov-2019 12:11:34 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[06-Nov-2019 12:11:34 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[06-Nov-2019 12:11:34 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[06-Nov-2019 12:11:34 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[06-Nov-2019 12:11:34 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 120
+[06-Nov-2019 12:11:45 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[06-Nov-2019 07:11:45 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[06-Nov-2019 07:11:46 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[06-Nov-2019 12:13:31 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[06-Nov-2019 12:13:31 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[06-Nov-2019 12:13:31 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[06-Nov-2019 12:13:31 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[06-Nov-2019 12:13:31 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 120
+[07-Nov-2019 20:02:36 UTC] PHP Notice:  Undefined index: jornada in /home/apostols/public_html/sga/view/admin/registro_alumnos.php on line 18
+[07-Nov-2019 22:21:27 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[07-Nov-2019 17:21:27 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[07-Nov-2019 17:21:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[07-Nov-2019 22:21:33 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[07-Nov-2019 17:21:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[08-Nov-2019 02:05:13 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[07-Nov-2019 21:05:13 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[08-Nov-2019 02:05:15 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[07-Nov-2019 21:05:15 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[08-Nov-2019 02:05:17 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[07-Nov-2019 21:05:17 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[08-Nov-2019 04:28:14 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[08-Nov-2019 04:28:14 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[08-Nov-2019 04:28:14 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[08-Nov-2019 04:28:14 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[08-Nov-2019 04:28:14 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 120
+[08-Nov-2019 04:29:15 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[08-Nov-2019 04:29:15 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[08-Nov-2019 04:29:15 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[08-Nov-2019 04:29:15 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[08-Nov-2019 04:29:15 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 120
+[08-Nov-2019 04:33:40 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[08-Nov-2019 04:33:40 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[08-Nov-2019 04:33:40 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[08-Nov-2019 04:33:40 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[08-Nov-2019 04:33:40 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 120
+[08-Nov-2019 04:33:58 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[08-Nov-2019 04:33:58 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[08-Nov-2019 04:33:58 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[08-Nov-2019 04:33:58 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[08-Nov-2019 04:33:58 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 120
+[08-Nov-2019 04:49:13 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[08-Nov-2019 04:49:13 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[08-Nov-2019 04:49:13 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[08-Nov-2019 04:49:13 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[08-Nov-2019 04:49:13 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 120
+[11-Nov-2019 05:22:32 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 00:22:32 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 00:22:32 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 00:22:33 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 05:22:36 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 00:22:36 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 12:37:29 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 07:37:29 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 07:37:29 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 07:37:30 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 12:37:34 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 07:37:34 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 14:17:44 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[11-Nov-2019 14:17:44 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[11-Nov-2019 14:17:44 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[11-Nov-2019 14:17:44 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[11-Nov-2019 14:17:44 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[11-Nov-2019 14:17:51 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[11-Nov-2019 14:17:51 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[11-Nov-2019 14:17:51 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 102
+[11-Nov-2019 14:17:51 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 108
+[11-Nov-2019 14:17:51 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 114
+[11-Nov-2019 22:05:04 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:05:04 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 17:05:04 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 17:05:05 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 22:06:08 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 17:06:08 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 22:07:28 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 17:07:28 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22926
+[11-Nov-2019 22:10:39 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:10:39 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 17:10:39 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:10:39 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:10:39 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 17:10:40 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 17:10:40 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 17:10:40 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 17:10:40 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 17:10:40 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 22:12:09 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:12:09 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 17:12:09 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:12:09 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:12:09 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21654
+[11-Nov-2019 17:12:09 America/Guayaquil] PHP Notice:  Undefined index: tag in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21655
+[11-Nov-2019 17:12:09 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21659
+[11-Nov-2019 17:12:09 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 21865
+[11-Nov-2019 17:12:09 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22296
+[11-Nov-2019 17:12:09 America/Guayaquil] PHP Notice:  Undefined offset: 30 in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22583
+[11-Nov-2019 22:13:30 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Notice:  Undefined index: thead in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20855
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Notice:  Undefined index: trids in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 23722
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 23722
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Notice:  Undefined index: trids in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 23751
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 23751
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Notice:  Undefined index: trids in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 23754
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 23754
+[11-Nov-2019 17:13:30 America/Guayaquil] PHP Notice:  Undefined index: old_cell_padding in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 23967
+[11-Nov-2019 22:22:33 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:22:33 America/Guayaquil] PHP Warning:  Use of undefined constant date - assumed 'date' (this will throw an Error in a future version of PHP) in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 17:22:33 America/Guayaquil] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/apostols/public_html/sga/view/admin/reportes.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/apostols/public_html/sga/view/admin/reportes.php on line 12
+[11-Nov-2019 22:22:49 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:22:49 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:22:49 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 22:24:15 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:24:15 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:24:15 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 22:24:18 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:24:18 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:24:18 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 22:25:56 UTC] PHP Notice:  Undefined index: cod_aula in /home/apostols/public_html/sga/view/admin/reportes.php on line 4
+[11-Nov-2019 17:25:56 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:25:56 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:38:22 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:38:22 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:43:46 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:43:46 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:45:15 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:45:15 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:45:24 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:45:24 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:46:44 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:46:44 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:52:02 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:52:02 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:53:55 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:53:55 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:58:00 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:58:00 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 17:58:00 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 17:58:00 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:58:00 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 17:58:00 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 17:58:00 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 17:58:00 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 17:58:00 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 17:58:40 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:58:40 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 17:58:40 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 17:58:40 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:58:40 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 17:58:40 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 17:58:40 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 17:58:40 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 17:58:40 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 17:59:34 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 17:59:34 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 17:59:34 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 17:59:34 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 17:59:34 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 17:59:34 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 17:59:34 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 17:59:34 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 17:59:34 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 18:11:40 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 18:11:40 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:11:40 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:11:40 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 18:11:40 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:11:40 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:11:40 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 18:11:40 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 18:11:40 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 18:19:49 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 18:19:49 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:19:49 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:19:49 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 18:19:49 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:19:49 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:19:49 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 18:19:49 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 18:19:49 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 18:22:17 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 18:22:17 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:22:17 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:22:17 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 18:22:17 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:22:17 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:22:17 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 18:22:17 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 18:22:17 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 18:22:30 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 18:22:30 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:22:30 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:22:30 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 18:22:30 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:22:30 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:22:30 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 18:22:30 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 18:22:30 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 18:22:32 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 18:22:32 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:22:32 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:22:32 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 18:22:32 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:22:32 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:22:32 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 18:22:32 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 18:22:32 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 18:38:23 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 18:38:23 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:38:23 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:38:23 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 18:38:23 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:38:23 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:38:23 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 18:38:23 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 18:38:23 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 18:38:38 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 18:38:38 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:38:38 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:38:38 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 18:38:38 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:38:38 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:38:38 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 18:38:38 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 18:38:38 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 18:39:42 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 18:39:42 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:39:42 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:39:42 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 18:39:42 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:39:42 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:39:42 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 18:39:42 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 18:39:42 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 18:39:56 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 18:39:56 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:39:56 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:39:56 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 18:39:56 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 18:39:56 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 18:39:56 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 18:39:56 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 18:39:56 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 19:05:47 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 19:05:47 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 19:05:47 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 19:05:47 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 19:05:47 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 19:05:47 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 19:05:47 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 19:05:47 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 19:05:47 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 19:05:54 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 19:05:54 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 19:05:54 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 19:05:54 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 19:05:54 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 19:05:54 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 19:05:54 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 19:05:54 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 19:05:54 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[11-Nov-2019 19:06:03 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[11-Nov-2019 19:06:03 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 19:06:03 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 19:06:03 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[11-Nov-2019 19:06:03 America/Guayaquil] PHP Stack trace:
+[11-Nov-2019 19:06:03 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[11-Nov-2019 19:06:03 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[11-Nov-2019 19:06:03 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[11-Nov-2019 19:06:03 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[27-Nov-2019 08:49:34 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[27-Nov-2019 08:49:34 America/Guayaquil] PHP Stack trace:
+[27-Nov-2019 08:49:34 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[27-Nov-2019 08:49:35 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[27-Nov-2019 08:49:35 America/Guayaquil] PHP Stack trace:
+[27-Nov-2019 08:49:35 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[27-Nov-2019 08:49:35 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[27-Nov-2019 08:49:35 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[27-Nov-2019 08:49:35 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[27-Nov-2019 08:49:37 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[27-Nov-2019 08:49:37 America/Guayaquil] PHP Stack trace:
+[27-Nov-2019 08:49:37 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[27-Nov-2019 08:49:37 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[27-Nov-2019 08:49:37 America/Guayaquil] PHP Stack trace:
+[27-Nov-2019 08:49:37 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[27-Nov-2019 08:49:37 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[27-Nov-2019 08:49:37 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[27-Nov-2019 08:49:37 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[27-Nov-2019 09:06:53 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[27-Nov-2019 09:06:53 America/Guayaquil] PHP Stack trace:
+[27-Nov-2019 09:06:53 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[27-Nov-2019 09:06:53 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[27-Nov-2019 09:06:53 America/Guayaquil] PHP Stack trace:
+[27-Nov-2019 09:06:53 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[27-Nov-2019 09:06:53 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[27-Nov-2019 09:06:53 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[27-Nov-2019 09:06:53 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[27-Nov-2019 09:06:56 America/Guayaquil] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 22091
+[27-Nov-2019 09:06:56 America/Guayaquil] PHP Stack trace:
+[27-Nov-2019 09:06:56 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[27-Nov-2019 09:06:56 America/Guayaquil] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/apostols/public_html/sga/tcpdf/tcpdf.php on line 20898
+[27-Nov-2019 09:06:56 America/Guayaquil] PHP Stack trace:
+[27-Nov-2019 09:06:56 America/Guayaquil] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/reportes.php:0
+[27-Nov-2019 09:06:56 America/Guayaquil] PHP   2. TCPDF->writeHTML() /home/apostols/public_html/sga/view/admin/reportes.php:72
+[27-Nov-2019 09:06:56 America/Guayaquil] PHP   3. TCPDF->getHtmlDomArray() /home/apostols/public_html/sga/tcpdf/tcpdf.php:21519
+[27-Nov-2019 09:06:56 America/Guayaquil] PHP   4. each() /home/apostols/public_html/sga/tcpdf/tcpdf.php:20898
+[30-Jan-2020 18:08:41 UTC] PHP Notice:  Undefined variable: estadisticasA in /home/apostols/public_html/sga/view/admin/index.php on line 67
+[30-Jan-2020 18:08:41 UTC] PHP Stack trace:
+[30-Jan-2020 18:08:41 UTC] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/index.php:0
+[30-Jan-2020 18:08:41 UTC] PHP Notice:  Undefined variable: estadisticasD in /home/apostols/public_html/sga/view/admin/index.php on line 77
+[30-Jan-2020 18:08:41 UTC] PHP Stack trace:
+[30-Jan-2020 18:08:41 UTC] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/index.php:0
+[30-Jan-2020 18:08:41 UTC] PHP Notice:  Undefined variable: docentes in /home/apostols/public_html/sga/view/admin/index.php on line 109
+[30-Jan-2020 18:08:41 UTC] PHP Stack trace:
+[30-Jan-2020 18:08:41 UTC] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/index.php:0
+[30-Jan-2020 18:08:41 UTC] PHP Notice:  Undefined variable: cursos in /home/apostols/public_html/sga/view/admin/index.php on line 115
+[30-Jan-2020 18:08:41 UTC] PHP Stack trace:
+[30-Jan-2020 18:08:41 UTC] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/index.php:0
+[30-Jan-2020 18:08:41 UTC] PHP Notice:  Undefined variable: catedras in /home/apostols/public_html/sga/view/admin/index.php on line 121
+[30-Jan-2020 18:08:41 UTC] PHP Stack trace:
+[30-Jan-2020 18:08:41 UTC] PHP   1. {main}() /home/apostols/public_html/sga/view/admin/index.php:0

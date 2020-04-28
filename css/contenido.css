@@ -1,0 +1,74 @@
+@media screen and (min-width: 1000px) {
+.container{
+  max-width: 100%;
+}
+._tittle{
+    font-size: 3rem;
+}
+._tittle1{
+  font-size: 3rem;
+}
+._contenido{
+    font-size: 2rem;
+}
+._contenido1{
+  font-size: 1.2rem;
+  width: 60%;
+  height: 100%;
+}
+img{
+  height:100%;
+}
+}
+
+@media screen and (min-width: 321px) and (max-width: 768px) {
+  .container{
+    max-width: 100%;
+  }
+  ._tittle{
+    font-size: 2rem;
+    max-width: 100%;
+  }
+  ._tittle1{
+    font-size: 2rem;
+    max-width: 100%;
+  }
+  ._contenido{
+      font-size: 1.5rem;
+      max-width: 100%;
+  }
+  ._contenido1{
+    font-size: 1rem;
+    max-width: 100%;
+  }
+  .card-image{
+    height:50%;
+  }
+  img{
+    height:100%;
+  }
+
+}
+
+._tittle, ._tittle1{
+  margin-top: 7%;
+  text-align: center;
+
+}
+
+._contenido, ._contenido1{
+  margin-top: 5%;
+  text-align: justify;
+
+}
+
+._imagen{
+  width: 30%;
+  height: 300px;
+}
+
+
+._contenido1,._imagen{
+  display: inline-block;
+  position: relative;
+}
