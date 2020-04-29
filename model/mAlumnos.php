@@ -17,7 +17,7 @@ class MAlumnos
       $objConexion = new Conexion();
       $conexion = $objConexion->get_Conexion();
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
@@ -25,139 +25,139 @@ class MAlumnos
       :_COD_CURSO,:_COD_PARALELO,:_COD_JORNADA,:_ENFERMEDADES,:_ALERGIAS,:_CEDULA_R,:_NOMBRES_R,:_APELLIDOS_R,:_FECHA_R,:_TELEFONO_R,
       :_CELULAR_R,:_CORREO_R,:_DIRECCION_R,:_FOTO_R)";
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt = $conexion->prepare($query);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_CEDULA',$arg_Cedula,PDO::PARAM_STR,4000);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_NOMBRES',$arg_Nombres,PDO::PARAM_STR,4000);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_APELLIDOS',$arg_Apellidos,PDO::PARAM_STR,4000);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_FECHA',$arg_Fecha,PDO::PARAM_STR,4000);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_TELEFONO',$arg_Telefono,PDO::PARAM_STR,4000);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_CELULAR',$arg_Celular,PDO::PARAM_STR,4000);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_CORREO',$arg_Correo,PDO::PARAM_STR,4000);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_DIRECCION',$arg_Direccion,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_FOTO',$arg_Foto,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_COD_CURSO',$arg_Curso,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_COD_PARALELO',$arg_Paralelo,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_COD_JORNADA',$arg_Jornada,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_ENFERMEDADES',$arg_Enfermedad,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_ALERGIAS',$arg_Alergias,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_CEDULA_R',$arg_Cedula_R,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_NOMBRES_R',$arg_Nombres_R,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_APELLIDOS_R',$arg_Apellidos_R,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_FECHA_R',$arg_Fecha_R,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_TELEFONO_R',$arg_Telefono_R,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_CELULAR_R',$arg_Celular_R,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_CORREO_R',$arg_Correo_R,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
     try {
       $stmt->bindParam(':_DIRECCION_R',$arg_Direccion_R,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
       $stmt->bindParam(':_FOTO_R',$arg_Foto_R,PDO::PARAM_STR);
     } catch (PDOException $e) {
-      echo "<script>alert(".$e->get_Message().");</script>";
+      echo "<script>alert(".$e->getMessage().");</script>";
     }
 
     try {
@@ -183,7 +183,7 @@ class MAlumnos
         return 0;
       }
     } catch (PDOException $e) {
-      echo "<script>alert('ERROR '".$e->get_Message().");</script>";
+      echo "<script>alert('ERROR '".$e->getMessage().");</script>";
     }
   }
 
